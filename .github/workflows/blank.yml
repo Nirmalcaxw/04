@@ -36,4 +36,4 @@ jobs:
           echo test, and deploy your project.
           echo 0000
           echo 1111
-          main.py
+          python main.py
